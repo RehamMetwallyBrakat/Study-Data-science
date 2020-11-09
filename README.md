@@ -1,11 +1,11 @@
 
-# [Start Data-science](https://github.com/RehamMetwallyBrakat/Study-Data-science/blob/main/index.html)
+# [Start Data-science](https://rehammetwallybrakat.github.io/Study-Data-science/)
 
 ## Preview
 
-[![Clean Blog Preview](hhttps://github.com/RehamMetwallyBrakat/Study-Data-science/blob/main/img/home-bg.jpg)](https://github.com/RehamMetwallyBrakat/Study-Data-science/blob/main/index.html)
+[![Clean Blog Preview](https://rehammetwallybrakat.github.io/Study-Data-science//img/home-bg.jpg)](https://rehammetwallybrakat.github.io/Study-Data-science/)
 
-**[View Live Preview](https://github.com/RehamMetwallyBrakat/Study-Data-science/blob/main/index.html)**
+**[View Live Preview](https://rehammetwallybrakat.github.io/Study-Data-science/)**
 
 <!DOCTYPE html>
 <html lang="en">
